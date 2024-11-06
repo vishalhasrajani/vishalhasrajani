@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a **Data Analyst**, with a strong foundation in SQL, Power BI, and Excel.<br><br>🌱 Specializing in data visualization, business intelligence, and cloud data integration using AWS, Snowflake, and Azure.<br><br>🤝 I'm always looking to learn new tools and techniques, aiming to create impactful data-driven solutions.<br><br>📫 You can reach me at **hasrajanivishal@gmail.com**.
+🔭 I’m currently working as a **Data Analyst Intern**, with a strong foundation in SQL, Power BI, and Excel.<br><br>🌱 Specializing in data visualization, business intelligence, and cloud data integration using AWS, Snowflake, and Azure.<br><br>🤝 I'm always looking to learn new tools and techniques, aiming to create impactful data-driven solutions.<br><br>📫 You can reach me at **hasrajanivishal@gmail.com**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-hasrajani/)  
