@@ -3,7 +3,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-hasrajani/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://codebasics.io/portfolio/Vishal-Hasrajani)  
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://medium.com/@vish9221/predict-loan-sanction-amount-using-machine-learning-a7e0fcf43d15)
 
 # 💻 Tech Stack:
